@@ -2,7 +2,7 @@
 
 Welcome to the repository of the **SMS Bombing Tool**, created by the collaborative efforts of Dragon and GOD DARK Z, both ethical hackers committed to cybersecurity education. This tool is designed to demonstrate the concept of SMS bombing and should be used strictly for educational purposes.
 
-![SMS Bombing Tool](https://via.placeholder.com/800x200.png?text=SMS+Bombing+Tool)  <!-- Replace with actual live text logo if available -->
+![SMS Bombing Tool](https://i.pinimg.com/originals/ce/ba/34/ceba346bb202efd59acbca3db67c0d97.gif)  <!-- Replace with actual live text logo if available -->
 
 ## Table of Contents
 
