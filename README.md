@@ -9,10 +9,6 @@ Welcome to the repository of the **SMS Bombing Tool**, created by the collaborat
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Disclaimer](#disclaimer)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -33,5 +29,5 @@ To get started with the SMS Bombing Tool, follow these steps:
 ```bash
 git clone https://github.com/god-dark-z/sms-bomb
 cd sms-bomb
-pythom spam.py
+python spam.py
 ```
